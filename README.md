@@ -1,0 +1,2 @@
+# hexoteric
+my personal website
